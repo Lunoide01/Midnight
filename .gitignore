@@ -1,0 +1,26 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Build]/
+/[Builds]/
+/[Logs]/
+/[UserSettings]/
+
+# File di configurazione dei vari editor di codice
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.IDB
+sysinfo.txt
+
+# File nascosti del sistema operativo
+.DS_Store
+Thumbs.db
