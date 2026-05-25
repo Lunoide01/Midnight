@@ -313,3 +313,7 @@ Received Import Request.
 Start importing Assets/XR/Settings using Guid(edccac76e9076e44bba3f583ac6be8c2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '164c451732f21e3bc24dc1fe878d0f43') in 0.012145 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f127d08ab262a78aa9382e4abe72d0c1 DependenciesID=ead124220c20f5a0d035ed11d8d1e7ae StaticDependenciesID=73b48389ccc8b0274ee3e319b7c6a2c5 
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
