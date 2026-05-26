@@ -20,7 +20,7 @@ public class WhisperResponse { public string text; }
 public class VampireDialogue : MonoBehaviour
 {
     // ⚠️ RIMETTI QUI LA TUA API KEY DI GROQ (inizia con gsk_)
-    private string apiKey =  "Inserire qui la chiave da Whatsapp";
+    private string apiKey =  "inserire la chiave da WS";
     // Variabili per il microfono
     private AudioClip clipRegistrato;
     private bool stoRegistrando = false;
