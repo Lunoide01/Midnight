@@ -24,3 +24,6 @@ sysinfo.txt
 # File nascosti del sistema operativo
 .DS_Store
 Thumbs.db
+Logs/
+Logs/
+UserSettings/
